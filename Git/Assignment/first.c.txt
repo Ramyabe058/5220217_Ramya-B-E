@@ -5,7 +5,7 @@ int main(){
  printf(%d,"The sum is =") 
 	
 // we can upload the modfy file to git without staging by command--> git commit -a -m "Third commit"
-	
+// git diff is used for the difference between previous and current file ,what are the new changes are added
 
 }
 
