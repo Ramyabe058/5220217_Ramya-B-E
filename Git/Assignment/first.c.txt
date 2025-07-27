@@ -2,6 +2,7 @@ int main(){
     int a=0;
     int b=5;
 	int c=a+b;
+ printf(%d,"The sum is =") 
 	
 // we can upload the modfy file to git without staging by command--> git commit -a -m "Third commit"
 	
